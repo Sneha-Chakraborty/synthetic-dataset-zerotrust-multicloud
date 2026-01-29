@@ -1,6 +1,5 @@
 # synthetic-dataset-zerotrust-multicloud
 Privacy-safe synthetic multi-cloud Zero Trust dataset for benchmarking detection accuracy, FPR, and response time in Research Proposed Work.
-# Synthetic_Dataset_ZeroTrust_Multicloud
 
 Synthetic (privacy-safe) multi-cloud Zero Trust telemetry and security-event dataset with ground-truth labels, created to support the experiments and baseline comparisons in the **AFO-ZT (Analytics-First Orchestration for Zero Trust) in Multi-Cloud** conference paper.
 
