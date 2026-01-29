@@ -1,7 +1,7 @@
 # synthetic-dataset-zerotrust-multicloud
 Privacy-safe synthetic multi-cloud Zero Trust dataset for benchmarking detection accuracy, FPR, and response time in Research Proposed Work.
 
-Synthetic (privacy-safe) multi-cloud Zero Trust telemetry and security-event dataset with ground-truth labels, created to support the experiments and baseline comparisons in the **AFO-ZT (Analytics-First Orchestration for Zero Trust) in Multi-Cloud** conference paper.
+Synthetic (privacy-safe) multi-cloud Zero Trust telemetry and security-event dataset with ground-truth labels, created to support the experiments and baseline comparisons in the **Trust-Guided and Analytics-Backed Orchestration for Zero Trust in Multi-Cloud** conference paper.
 
 > ✅ **No real user, device, or organizational data is included.**  
 > All identities, IPs, timestamps, and events are artificially generated for reproducible research evaluation.
@@ -30,7 +30,7 @@ The synthetic generator creates multi-cloud log streams by simulating:
 2. **Context signals** (device posture, geo, time-of-day, risk context)
 3. **Policy decisions** (Zero Trust allow/deny/step-up behavior)
 4. **Attack injections** (controlled malicious sequences inserted with labels)
-5. **Telemetry normalization** into a unified schema for AFO-ZT evaluation
+5. **Telemetry normalization** into a unified schema for Proposed Methodology evaluation
 
 This supports reproducible experiments for analytics-driven policy decisioning and orchestration pipelines.
 ---
